@@ -12,4 +12,4 @@
 
 ## Reinforcement Learning 
 
-* [RLN](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
+* [A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
