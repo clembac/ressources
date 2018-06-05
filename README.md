@@ -1,15 +1,19 @@
 # Ressources
 
-## Machine Learning 
+## Machine Learning
 
 
-## Deep learning 
+## Deep learning
 
 
-## NLP 
+## NLP
 
 * [Linkurious, How Nasa experiment with knowledge discovery](https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/)
 
-## Reinforcement Learning 
+## Reinforcement Learning
 
 * [A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
+
+## Python
+
+* [BeakerX, a collection of jupyter/python widget](http://beakerx.com)
