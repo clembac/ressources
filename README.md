@@ -15,7 +15,6 @@
 
 * [NLP Architect by Intel AI LAB](https://github.com/NervanaSystems/nlp-architect)
 
-*
 ## Reinforcement Learning
 
 * [A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
