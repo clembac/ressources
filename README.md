@@ -1,7 +1,6 @@
-# ressources
+# Ressources
 
 ## Machine Learning 
-
 
 
 ## Deep learning 
@@ -13,4 +12,4 @@
 
 ## Reinforcement Learning 
 
-* [](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
+* [RLN](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
