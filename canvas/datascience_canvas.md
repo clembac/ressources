@@ -91,3 +91,6 @@ WRITE HERE
 #
 
 Based on the work of [machinelearningcanvas.com](http://machinelearningcanvas.com)​ by Louis Dorard, Ph.D.
+
+
+echo ".*" >> README.md

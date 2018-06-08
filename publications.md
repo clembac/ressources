@@ -6,7 +6,9 @@
 
 ## Deep learning
 
+* [Berkley Deep Drive, Dataset for autonomous car](http://bdd-data.berkeley.edu/)
 
+* [Images classification methodology, Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3)
 ## NLP
 
 * [Linkurious, How Nasa experiment with knowledge discovery](https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/)
@@ -24,6 +26,14 @@
 
 * [BeakerX, a collection of jupyter/python widget](http://beakerx.com)
 
+## Production
+
+* [How facebook scale AI](https://www.zdnet.com/article/how-facebook-scales-ai/)
 ## Strategy
 
 * [Complex challenge of demand forecasting for business](https://medium.com/bcggamma/the-complex-challenge-of-demand-forecasting-for-business-cfb50a269a41)
+
+
+## Spark
+
+* [Spark on a multi node cluster](https://medium.com/@booyakarahul/apache-spark-on-a-multi-node-cluster-b75967c8cb2b)
