@@ -4,6 +4,9 @@
 
 * [Auto ML](https://techblog.cdiscount.com/a-brief-overview-of-automatic-machine-learning-solutions-automl/)
 
+* [Deep feqture synthesis: towards automating data science endeavors](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf)
+
+* [Automatic Feature engineering](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 ## Deep learning
 
 * [Berkley Deep Drive, Dataset for autonomous car](http://bdd-data.berkeley.edu/)
