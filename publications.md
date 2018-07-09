@@ -20,6 +20,7 @@
 
 * [NLP Architect by Intel AI LAB](https://github.com/NervanaSystems/nlp-architect)
 
+* [Word2Vec](https://medium.com/seloger-datascience/mieux-conna%C3%AEtre-l-offre-immobili%C3%A8re-avec-word2vec-f0b821ca4aa4)
 ## Reinforcement Learning
 
 * [A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks)
@@ -29,9 +30,14 @@
 
 * [BeakerX, a collection of jupyter/python widget](http://beakerx.com)
 
-## Production
+* [Convert notebooks in PEP8 Auto](https://github.com/hhatto/autopep8)
+
+## Tech
 
 * [How facebook scale AI](https://www.zdnet.com/article/how-facebook-scales-ai/)
+* [Datalake - the evolution of data processing](https://www.kdnuggets.com/2018/06/data-lake-evolution-data-processing.html#.WyTTBBWgFtw.linkedin)
+
+* [Getting Started With Kubernetes](https://medium.com/@sarangrana/getting-started-with-kubernetes-part-1-setting-up-master-node-architecture-with-ubuntu-16-04-11f1e71d1aad)
 ## Strategy
 
 * [Complex challenge of demand forecasting for business](https://medium.com/bcggamma/the-complex-challenge-of-demand-forecasting-for-business-cfb50a269a41)
